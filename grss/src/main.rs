@@ -1,3 +1,6 @@
+
+// This code explore differents way to make web requests with reqwest library
+
 #[macro_use]
 extern crate error_chain;
 use structopt::StructOpt;
@@ -36,12 +39,15 @@ async fn main() {
     // Get CLI arguments
     let _args = Cli::from_args();
 
+    // Blocking web request
     //let _future_1= http_request_1(_args._url.to_string());
     //block_on(_future_1);
 
+    // Async simple get
     let _future_2= http_request_2(_args._url.to_string());
     block_on(_future_2);
-       
+    
+    // Async web client 
     let _future_3 = http_request_3(_args._url.to_string());
     block_on(_future_3);
 

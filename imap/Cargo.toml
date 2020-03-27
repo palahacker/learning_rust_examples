@@ -1,0 +1,16 @@
+[package]
+name = "imap"
+version = "0.1.0"
+authors = ["^PalaHacker^ <palahacker@protonmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+imap = "*"
+native-tls = "*"
+structopt = "0.3"
+error-chain = "*"
+futures = "0.3.4"
+tokio = { version = "0.2", features = ["full"] }

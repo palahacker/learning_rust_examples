@@ -1,0 +1,10 @@
+/home/antonio/Documentos/Programming/learning_rust_examples-1/imap/target/debug/deps/libstructopt_derive-e067c2ab8e187445.so: /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/lib.rs /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/attrs.rs /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/doc_comments.rs /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/parse.rs /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/spanned.rs /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/ty.rs
+
+/home/antonio/Documentos/Programming/learning_rust_examples-1/imap/target/debug/deps/structopt_derive-e067c2ab8e187445.d: /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/lib.rs /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/attrs.rs /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/doc_comments.rs /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/parse.rs /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/spanned.rs /home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/ty.rs
+
+/home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/lib.rs:
+/home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/attrs.rs:
+/home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/doc_comments.rs:
+/home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/parse.rs:
+/home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/spanned.rs:
+/home/antonio/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.5/src/ty.rs:
